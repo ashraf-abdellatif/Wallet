@@ -18,13 +18,14 @@ export class LoginComponent implements OnInit {
   {
     this.userService.Login(this.authenticateModel).subscribe(
       data=>{
-        console.log(data);
         let user:any = data;
         localStorage.setItem('userid' ,user.id);
+        localStorage.setItem('isAdmin' ,user.isAdmin);
         this.router.navigate(['/Transfer']);
       },
       error=>{
-        console.log(error);
+        localStorage.setItem('userid' ,'0');
+        localStorage.setItem('isAdmin' ,'false');
 
       }
     )

@@ -1,9 +1,11 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
+import { AuthGuard } from './auth.guard';
 import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { TransferListComponent } from './transfer-list/transfer-list.component';
+import { TransferComponent } from './transfer/transfer.component';
 
 const routes: Routes = [
   {
@@ -20,8 +22,13 @@ const routes: Routes = [
 }
 ,
 {
+    path: 'TransferList',
+    component: TransferListComponent,
+    canActivate: [AuthGuard]
+},
+{
     path: 'Transfer',
-    component: TransferListComponent
+    component: TransferComponent
 }
 ];
 
