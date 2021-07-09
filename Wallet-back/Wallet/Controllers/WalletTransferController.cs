@@ -9,7 +9,7 @@ using Wallet.Models;
 
 namespace Wallet.Controllers
 {
-    [Authorize]
+ //   [Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WalletTransferController : Controller
@@ -26,7 +26,6 @@ namespace Wallet.Controllers
         {
             return Ok(await _walletTransferService.GetTransferToUser(userId));
         }
-
         [HttpPost]
         [Route("{Action}")]
         public async Task<IActionResult> Post([FromBody]TransferModel model)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kZj/4AxjwFi2LNuieClr5K510a6IA3RBtgkm5Y4mgPU4cqdJaUe3bfACPUBH2NxrrOM8d2THUrxkr6StHS01MQ==",
+  "dgSpecHash": "RTWzG0N2S1szRe71/ZvpK/Sh3ARPOTLdRvjIIfoTdghpdvfT2v8SjF2Bfxj3ohkTlBzyDvNyUMvNUhi7fCiamw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Wallet\\Wallet.csproj",
+  "projectFilePath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\wallet\\Wallet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ashraf_Abdellatif\\.nuget\\packages\\azure.core\\1.4.1\\azure.core.1.4.1.nupkg.sha512",
     "C:\\Users\\Ashraf_Abdellatif\\.nuget\\packages\\azure.identity\\1.2.3\\azure.identity.1.2.3.nupkg.sha512",

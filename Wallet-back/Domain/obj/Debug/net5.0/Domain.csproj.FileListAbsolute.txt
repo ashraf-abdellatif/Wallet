@@ -28,3 +28,18 @@ C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.dll
 C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\ref\Domain.dll
 C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.pdb
 C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\bin\Debug\net5.0\Domain.deps.json
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\bin\Debug\net5.0\Domain.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\bin\Debug\net5.0\ref\Domain.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\bin\Debug\net5.0\Domain.pdb
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\ref\Domain.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.pdb
+E:\Document\Projects Practice\Wallet\Wallet-back\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache

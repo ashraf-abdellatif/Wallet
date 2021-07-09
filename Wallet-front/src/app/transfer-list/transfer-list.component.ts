@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { TransferModel } from '../TransferModel';
 import { TransfersService } from '../transfers.service';
+//import * as alertify from 'alertifyjs';
 
 @Component({
   selector: 'app-transfer-list',
@@ -17,20 +18,36 @@ export class TransferListComponent implements OnInit {
   LoadAllTansfer()
   {
     this.transfersService.GetAllTransfers(Number(localStorage.getItem('userid'))).subscribe(
-      data=>{this.Data = data;},
-      err=>{console.log(err);}
+      data=>{
+        this.Data = data;
+      },
+      //err=>{alertify.error(err);}
     )
   }
   post()
   {
+    if(!this.ValidateForm())
+    {
+      console.log('bad data');
+      return;
+    }
     this.transferModel.UserID = Number(localStorage.getItem('userid'));
-    console.log(this.transferModel);
     this.transfersService.Post(this.transferModel).subscribe(
       data=>{
-        console.log(data);
+        //alertify.success('تم التسجيل بنجاح');
         this.LoadAllTansfer();
       },
       err=>{console.log(err);}
     )
+  }
+  rowClicked(item:any)
+  {
+    this.transferModel = {ToMobile:item.toMoibileNumber , Value:item.value , UserID : item.userID};
+  }
+  ValidateForm()
+  {
+    if(this.transferModel.UserID == 0 || this.transferModel.ToMobile =='' || this.transferModel.Value==0)
+    return false;
+    return true;
   }
 }

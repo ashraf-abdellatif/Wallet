@@ -5727,11 +5727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Service\\Service.csproj",
+      "projectUniqueName": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Service\\Service.csproj",
+      "projectPath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Ashraf_Abdellatif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Service\\obj\\",
+      "outputPath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
@@ -5756,8 +5756,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj"
+            "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj"
             }
           }
         }

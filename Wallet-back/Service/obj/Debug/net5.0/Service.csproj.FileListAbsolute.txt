@@ -28,3 +28,18 @@ C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.cspro
 C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.dll
 C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\ref\Service.dll
 C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.pdb
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\bin\Debug\net5.0\Service.deps.json
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\bin\Debug\net5.0\Service.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\bin\Debug\net5.0\ref\Service.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\bin\Debug\net5.0\Service.pdb
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\bin\Debug\net5.0\Domain.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\bin\Debug\net5.0\Domain.pdb
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\ref\Service.dll
+E:\Document\Projects Practice\Wallet\Wallet-back\Service\obj\Debug\net5.0\Service.pdb

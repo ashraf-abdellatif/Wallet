@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj": {}
+    "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj": {
+    "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Ashraf_Abdellatif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\obj\\",
+        "outputPath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",

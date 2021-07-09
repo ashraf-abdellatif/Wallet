@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6usFBlqx6RgnEdABgKLfFPMp9BYpctl6wMTG7jsCOm6vxQbhDgyflx7vcCk2B80BDOOscSjD9T0lbjNmc6Hzw==",
+  "dgSpecHash": "TkmTgmDcZn9zGb3qt1846eDr+igWeY5Ld0Dho6fKvW+yF14gYVTobIG1aDqytTxSgR3UkFTXMf2+2/Llk0uzFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ashraf_Abdellatif\\Desktop\\Wallet\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Document\\Projects Practice\\Wallet\\Wallet-back\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ashraf_Abdellatif\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ashraf_Abdellatif\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
