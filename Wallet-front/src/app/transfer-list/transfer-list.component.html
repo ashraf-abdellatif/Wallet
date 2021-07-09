@@ -1,0 +1,39 @@
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<div>
+    <div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="Phone Number *" value="" [(ngModel)]="transferModel.ToMobile" />
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control" placeholder="value *" value="" [(ngModel)]="transferModel.Value"/>
+            </div>
+        </div>
+        <button type="button" class="btnSubmit" (click)="post()">Submit</button>
+    </div>
+    <div class="row">
+        <div class="col-md-12">   <table class="table table-borderd"> 
+            <thead>
+                <tr>
+                    <th>UserID</th>
+                    <th>Date</th>
+                    <th>Value</th>
+                    <th>ToMoibileNumber</th>
+                  </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of Data">
+                    <td>{{item.UserID}}</td>
+                    <td>{{item.Date}}</td>
+                    <td>{{item.Value}}</td>
+                    <td>{{item.ToMoibileNumber}}</td>          
+                </tr>
+            </tbody>
+        </table> </div>
+     
+    </div>
+</div>

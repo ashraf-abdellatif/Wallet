@@ -1,0 +1,138 @@
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\appsettings.Development.json
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\appsettings.json
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Wallet.exe
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Wallet.deps.json
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Wallet.runtimeconfig.json
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Wallet.runtimeconfig.dev.json
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Wallet.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\ref\Wallet.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Wallet.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Azure.Core.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Azure.Identity.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.csproj.AssemblyReference.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.AssemblyInfoInputs.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.AssemblyInfo.cs
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.csproj.CoreCompileInputs.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.MvcApplicationPartsAssemblyInfo.cs
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.MvcApplicationPartsAssemblyInfo.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\staticwebassets\Wallet.StaticWebAssets.Manifest.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\staticwebassets\Wallet.StaticWebAssets.xml
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\scopedcss\bundle\Wallet.styles.css
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.RazorTargetAssemblyInfo.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.csproj.CopyComplete
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\ref\Wallet.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\obj\Debug\net5.0\Wallet.genruntimeconfig.cache
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Domain.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Domain.pdb
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Humanizer.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Service.dll
+D:\Not Need\New folder\Wallet\Wallet\Wallet\bin\Debug\net5.0\Service.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.csproj.AssemblyReference.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.AssemblyInfoInputs.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.AssemblyInfo.cs
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\ref\Wallet.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\appsettings.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Wallet.exe
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Wallet.deps.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Wallet.runtimeconfig.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Wallet.runtimeconfig.dev.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Wallet.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\ref\Wallet.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Wallet.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.Identity.Web.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Domain.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Service.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Domain.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\bin\Debug\net5.0\Service.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\staticwebassets\Wallet.StaticWebAssets.Manifest.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\staticwebassets\Wallet.StaticWebAssets.xml
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\scopedcss\bundle\Wallet.styles.css
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.RazorTargetAssemblyInfo.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.csproj.CopyComplete
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Wallet\obj\Debug\net5.0\Wallet.genruntimeconfig.cache

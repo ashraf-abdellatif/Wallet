@@ -1,0 +1,30 @@
+D:\Not Need\New folder\Wallet\Wallet\Service\bin\Debug\net5.0\Service.deps.json
+D:\Not Need\New folder\Wallet\Wallet\Service\bin\Debug\net5.0\Service.dll
+D:\Not Need\New folder\Wallet\Wallet\Service\bin\Debug\net5.0\ref\Service.dll
+D:\Not Need\New folder\Wallet\Wallet\Service\bin\Debug\net5.0\Service.pdb
+D:\Not Need\New folder\Wallet\Wallet\Service\bin\Debug\net5.0\Domain.dll
+D:\Not Need\New folder\Wallet\Wallet\Service\bin\Debug\net5.0\Domain.pdb
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.dll
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\ref\Service.dll
+D:\Not Need\New folder\Wallet\Wallet\Service\obj\Debug\net5.0\Service.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\bin\Debug\net5.0\Service.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\bin\Debug\net5.0\Domain.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\bin\Debug\net5.0\Domain.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Service\obj\Debug\net5.0\Service.pdb

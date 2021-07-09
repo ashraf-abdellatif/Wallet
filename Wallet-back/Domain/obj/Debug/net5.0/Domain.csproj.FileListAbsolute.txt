@@ -1,0 +1,30 @@
+D:\Not Need\New folder\Wallet\Wallet\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Not Need\New folder\Wallet\Wallet\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\Not Need\New folder\Wallet\Wallet\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\Not Need\New folder\Wallet\Wallet\Domain\bin\Debug\net5.0\Domain.dll
+D:\Not Need\New folder\Wallet\Wallet\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Not Need\New folder\Wallet\Wallet\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.dll
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Not Need\New folder\Wallet\Wallet\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\Ashraf_Abdellatif\Desktop\Wallet\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
